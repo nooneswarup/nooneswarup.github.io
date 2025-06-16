@@ -6,7 +6,7 @@ author: nooneswarup
 categories: [Jobs]
 tags: [jobs, linkedin]  
 ---
-These are some factors which are considered when applyign for jobs 
+These are some factors which are considered when applying for jobs 
 
 1. Most recent work experience 
 2. Domain experience if the field is highly competitive
