@@ -92,5 +92,5 @@ Ensuring the accuracy and reliability of AI outputs is crucial.
 * **Human in the Loop:** Involve subject matter experts to review outputs and provide feedback.
 * **Monitoring and Analytics:** Continuously monitor user feedback and re-index data to keep the system current.
 
-[Inference paramerts](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html#inference-randomness)
+[Inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html#inference-randomness)
 ![AI Application flow](assets/img/AI.png)
